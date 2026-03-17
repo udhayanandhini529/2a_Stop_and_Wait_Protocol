@@ -60,8 +60,8 @@ while True:
             break
 ```
 ## OUTPUT
-![alt text](<img.png>)
-![alt text](<img.png>)
+![alt text](image.png)
+![alt text](image-1.png)
 
 
 
