@@ -60,10 +60,11 @@ while True:
             break
 ```
 ## OUTPUT
+![alt text](<img.png>)
+![alt text](<img.png>)
 
-![alt text](image-2.png)
 
-![alt text](image.png)
+
 
 ## RESULT
 Thus, python program to perform stop and wait protocol was successfully executed.
